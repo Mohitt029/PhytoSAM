@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Large data & weights
+data/plantvillage/
+weights/*.pth
+*.zip
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+outputs/
+logs/
